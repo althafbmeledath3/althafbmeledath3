@@ -1,101 +1,29 @@
-# 🚀 Welcome to Althaf B Meledath's GitHub! 👋
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="Waving Hand Animation"/>
-</p>
+# 💫 About Me:
+🌟 Frontend Designer at Synnefo Solutions<br>🎨 Passionate about crafting intuitive and visually appealing user interfaces.<br>💻 Experienced in turning ideas into functional, responsive designs.<br>🚀 Constantly learning and experimenting with new frontend technologies.<br>📚 Let’s collaborate and build something amazing together!<br>
 
-<h3 align="center">Passionate Developer | Tech Explorer | Problem Solver</h3>
-<p align="center">
-  Crafting code that sparks innovation! 🌟
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/althaf-b-meledath-a5171b305/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-  <a href="mailto:althafbmeledath3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raishan__) 
 
----
 
-## 🌟 About Me
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=raishan12&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raishan12&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raishan12&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-I'm Althaf, a tech enthusiast who loves turning ideas into reality through code. My journey is fueled by curiosity and a drive to build impactful solutions.
-
-- **Name**: Althaf B Meledath
-- **Email**: [althafbmeledath3@gmail.com](mailto:althafbmeledath3@gmail.com)
-- **LinkedIn**: [Althaf B Meledath](https://www.linkedin.com/in/althaf-b-meledath-a5171b305/)
-- **Location**: [Your Location, e.g., Kerala, India]
-- **Passion**: Coding, learning, and collaborating on exciting projects!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Coding Animation"/>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=raishan12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=raishan12&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 💻 What I Do
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/muhammedraishan) 
 
-- 🌱 **Exploring**: New frameworks, tools, and technologies.
-- 🛠️ **Building**: Projects that solve real-world problems.
-- 🤝 **Collaborating**: Contributing to open-source communities.
-- 📝 **Sharing**: Knowledge through code and tutorials.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="margin: 5px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="margin: 5px;"/>
-  <!-- Add more tech badges as needed, e.g., React, Django -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="margin: 5px;"/>
-</p>
-
----
-
-## 🔥 Featured Projects
-
-- **[Project Name 1]** ([Link to repo]): A dynamic project showcasing [brief description].
-- **[Project Name 2]** ([Link to repo]): An innovative solution for [brief description].
-- *Check out more in my repositories below!*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Get in Touch
-
-Let's connect and create something amazing together!
-
-- 📧 **Email**: [althafbmeledath3@gmail.com](mailto:althafbmeledath3@gmail.com)
-- 🔗 **LinkedIn**: [Althaf B Meledath](https://www.linkedin.com/in/althaf-b-meledath-a5171b305/)
-
-<p align="center">
-  <a href="mailto:althafbmeledath3@gmail.com">
-    <img src="https://media.giphy.com/media/3o7aD2xS7rG8vZJR6M/giphy.gif" width="50" alt="Email Animation"/>
-  </a>
-</p>
-
----
-
-## 🎉 Fun Fact
-
-I code best with a cup of coffee and a playlist of epic sci-fi soundtracks! ☕🎶
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="150" alt="Coffee Animation"/>
-</p>
-
----
-
-⭐️ **Love my work? Star my repos!** ⭐️  
-Thanks for stopping by! 🚀
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
